@@ -1,2 +1,2 @@
-# lre_test_repo
+# LRE TEST REPO
 Test repo in GitHub to mess around with
